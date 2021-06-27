@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		568A8D612688EC06007CC521 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 568A8D602688EC06007CC521 /* SleepCalculator.mlmodel */; };
 		5692A60C2688D69100AB540B /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5692A60B2688D69100AB540B /* BetterRestApp.swift */; };
 		5692A60E2688D69100AB540B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5692A60D2688D69100AB540B /* ContentView.swift */; };
 		5692A6102688D69200AB540B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5692A60F2688D69200AB540B /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		568A8D602688EC06007CC521 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = SleepCalculator.mlmodel; path = ../../../Downloads/SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		5692A6082688D69100AB540B /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5692A60B2688D69100AB540B /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
 		5692A60D2688D69100AB540B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				5692A60B2688D69100AB540B /* BetterRestApp.swift */,
 				5692A60D2688D69100AB540B /* ContentView.swift */,
 				5692A60F2688D69200AB540B /* Assets.xcassets */,
+				568A8D602688EC06007CC521 /* SleepCalculator.mlmodel */,
 				5692A6142688D69200AB540B /* Info.plist */,
 				5692A6112688D69200AB540B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				568A8D612688EC06007CC521 /* SleepCalculator.mlmodel in Sources */,
 				5692A60E2688D69100AB540B /* ContentView.swift in Sources */,
 				5692A60C2688D69100AB540B /* BetterRestApp.swift in Sources */,
 			);
